@@ -1,0 +1,28 @@
+{
+  "primary_metric": "f1",
+  "minimum_improvement_margin": 0.01,
+  "direction": "higher_is_better",
+  "tie_breaker": "If absolute F1 difference is below 0.01, choose the faster model.",
+  "winner": "A_sentiment_distilbert-sst2",
+  "delta_f1_challenger_minus_champion": 0.0,
+  "model_a": {
+    "run_id": "6f29eeac2dc8438ba59e75d715dcc9eb",
+    "model_id": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "avg_latency_ms": 194.5090600000185,
+    "total_inference_s": 3.89018120000037
+  },
+  "model_b": {
+    "run_id": "3b069f5e0e314ee8b04b107fd4c9b0e5",
+    "model_id": "textattack/bert-base-uncased-SST-2",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "avg_latency_ms": 1019.6665699999812,
+    "total_inference_s": 20.393331399999624
+  }
+}

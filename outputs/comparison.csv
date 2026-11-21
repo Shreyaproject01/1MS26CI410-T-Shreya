@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,avg_latency_ms
+Model A - DistilBERT,1.0,1.0,1.0,1.0,194.5090600000185
+Model B - BERT,1.0,1.0,1.0,1.0,1019.6665699999812

@@ -1,0 +1,21 @@
+text,label,prediction,predicted_label,confidence,correct
+This movie was wonderful and deeply moving.,1,1,POSITIVE,0.9998875856399536,True
+I loved every minute of this film.,1,1,POSITIVE,0.9998587369918823,True
+The acting was excellent and the story was engaging.,1,1,POSITIVE,0.9998793601989746,True
+A brilliant film with a beautiful ending.,1,1,POSITIVE,0.9998863935470581,True
+"Funny, heartfelt, and very entertaining.",1,1,POSITIVE,0.9998903274536133,True
+The soundtrack and visuals were amazing.,1,1,POSITIVE,0.9998836517333984,True
+An enjoyable movie that I would watch again.,1,1,POSITIVE,0.9998914003372192,True
+Strong performances made this a great film.,1,1,POSITIVE,0.9998764991760254,True
+This was a pleasant surprise and a great experience.,1,1,POSITIVE,0.9998853206634521,True
+Absolutely fantastic; I highly recommend it.,1,1,POSITIVE,0.9998748302459717,True
+This movie was boring and painfully slow.,0,0,NEGATIVE,0.9998055100440979,True
+I hated the story and the acting was poor.,0,0,NEGATIVE,0.999797523021698,True
+A complete waste of time.,0,0,NEGATIVE,0.9997804760932922,True
+The film was dull and disappointing.,0,0,NEGATIVE,0.9997912049293518,True
+Terrible dialogue and an awful ending.,0,0,NEGATIVE,0.9998204112052917,True
+I would not recommend this movie.,0,0,NEGATIVE,0.9006774425506592,True
+The characters were flat and uninteresting.,0,0,NEGATIVE,0.999809205532074,True
+Poorly made and very difficult to enjoy.,0,0,NEGATIVE,0.9998213648796082,True
+This was the worst film I have seen in years.,0,0,NEGATIVE,0.9997695088386536,True
+Nothing about this movie worked for me.,0,0,NEGATIVE,0.9995038509368896,True

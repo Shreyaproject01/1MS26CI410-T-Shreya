@@ -1,0 +1,9 @@
+text,prediction,sentiment,confidence
+The performances were charming and the film was delightful.,1,POSITIVE,0.999886155128479
+I regret spending money on this boring movie.,0,NEGATIVE,0.9994644522666931
+"The plot was clever, emotional, and beautifully written.",1,POSITIVE,0.9998812675476074
+Awful pacing made the movie difficult to finish.,0,NEGATIVE,0.9997854828834534
+I enjoyed the characters and would happily watch it again.,1,POSITIVE,0.9998636245727539
+The film was confusing and completely uninteresting.,0,NEGATIVE,0.9997326731681824
+The visuals were stunning and the story kept me engaged.,1,POSITIVE,0.9998629093170166
+An unpleasant experience with weak acting.,0,NEGATIVE,0.999790608882904
